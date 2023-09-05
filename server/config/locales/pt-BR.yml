@@ -1,0 +1,10 @@
+# config/locales/pt-BR.yml
+
+pt-BR:
+  activerecord:
+    errors:
+      models:
+        client:
+          attributes:
+            cnpj:
+              taken: "já está em uso"
