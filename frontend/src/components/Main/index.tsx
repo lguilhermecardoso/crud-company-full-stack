@@ -7,7 +7,9 @@ const Main = () => (
       <h1 className="text-center font-bold">Cadastro de empresas</h1>
     </div>
     <div className="flex-grow text-left px-4 py-2 m-2">
-      <h5 className="text-gray-900 font-semibold text-xl">Empresas cadastradas</h5>
+      <h5 className="text-gray-900 font-semibold text-xl">
+        Empresas cadastradas
+      </h5>
     </div>
     <div className="text-right">
       <Link href="/add">

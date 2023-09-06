@@ -1,9 +1,9 @@
-import Main  from '@/components/Main'
+import Main from '@/components/Main'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({
   weight: '400',
-  subsets: ['latin'],
+  subsets: ['latin']
 })
 
 export default function Home() {
