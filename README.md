@@ -23,3 +23,12 @@ docker compose up
 `
 docker compose run web rails db:migrate
 `
+# Frontend
+
+`
+cd frontend
+`
+
+`
+npm install && npm run dev
+`
